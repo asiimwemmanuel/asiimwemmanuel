@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asiimwemmanuel
+- 👋 Hi, I’m Emmanuel Asiimwe
 - 👀 I’m interested in making robots, games and competitive programming
 - 🌱 I’m currently learning Python, SQL and the Unity game engine
 - 💞️ I’m looking to collaborate on any websites or mobile apps
