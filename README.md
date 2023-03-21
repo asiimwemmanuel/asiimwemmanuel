@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Cybatuth
+- 👋 Hi, I’m @asiimwemmanuel
 - 👀 I’m interested in making robots, games and competitive programming
 - 🌱 I’m currently learning Python, SQL and the Unity game engine
 - 💞️ I’m looking to collaborate on any websites or mobile apps
-- 📫 How to reach me: asiimwemmanuel47@gmail.com
+- ✉ asiimwemmanuel47@gmail.com
+- 🤙 +256 700 524 549
