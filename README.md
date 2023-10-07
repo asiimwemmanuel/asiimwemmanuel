@@ -12,9 +12,9 @@ Welcome to my GitHub profile. Let me give you a glimpse of who I am and what I'm
 
 - 🤙 For direct contact, you can call or text me at +256-700-524-549. I'm always open to connecting with fellow tech enthusiasts.
 
-- 🎓 In terms of my education, I'm currently enrolled in Google Data Analytics, MITx Computational Engineering, and Harvard CS50x. I'm also pursuing the International Baccalaureate Diploma Programme (IBDP) with a focus on English A: LangLit, French B, Chemistry SL, Math-AA, Physics, and Digital Society at HL.
+- 🎓 In terms of my education, I'm currently an IB student while also enrolled in Google Data Analytics, MITx Computational Engineering, and Harvard CS50x.
 
-- 🌐 Professionally, I'm interning at CoCIS (IoT research application lab), and I have plans for a future stint at UBOS in 2024. I'm also exploring options like UWC or ALA for further education.
+- 🌐 Professionally, I'm interning at CoCIS (IoT research application lab), and BIIL.
 
 - 💼 I'm passionate about roles in software, data, and computational engineering, and I have 3 years of programming experience with a focus on statistical modelling. My approach emphasizes clarity over technical complexity.
 
