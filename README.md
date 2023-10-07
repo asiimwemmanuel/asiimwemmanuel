@@ -1,15 +1,21 @@
-# 👋 Hi there, I'm Emmanuel Asiimwe!
+# 👋 Hello, I'm Emmanuel Asiimwe!
 
-Welcome to my GitHub profile. I'm a passionate individual with a keen interest in technology and a drive to innovate. Here's a bit about me and what I'm up to:
+Welcome to my GitHub profile. Let me give you a glimpse of who I am and what I'm passionate about:
 
-- 👀 I'm deeply intrigued by the world of robotics, game development, and competitive programming. Exploring these areas has been a thrilling journey.
+- 👀 I have a deep interest in technology, particularly in robotics, game development, and competitive programming. These fields constantly captivate my curiosity and drive me to explore and learn more.
 
-- 🌱 Currently, I'm diving into the realm of Python programming, mastering SQL, and honing my skills with the Unity game engine. Learning is my fuel!
+- 🌱 Currently, I'm actively learning and expanding my skills in Python programming, SQL, and Unity game development. Learning is a journey I cherish.
 
-- 💞️ I'm enthusiastic about collaborating on projects that involve website development or mobile app creation. If you have an exciting project in mind, let's team up and bring it to life!
+- 💞️ Collaboration excites me, especially when it involves projects related to website development or mobile app creation. If you have an exciting project in mind, I'm eager to team up and bring it to life!
 
-- 📫 You can reach me at asiimwemmanuel47@gmail.com. Feel free to drop me a line if you'd like to connect, collaborate, or simply have a tech chat.
+- 📫 You can reach out to me at asiimwemmanuel47@gmail.com. Whether you want to connect, discuss collaboration, or just have a tech chat, feel free to drop me an email.
 
-- 🤙 You can also reach out to me directly at +256 700 524 549. Don't hesitate to give me a call or send a text if you'd like to get in touch.
+- 🤙 For direct contact, you can call or text me at +256-700-524-549. I'm always open to connecting with fellow tech enthusiasts.
 
-Stay curious, keep coding, and let's make technology work wonders together! 🚀
+- 🎓 In terms of my education, I'm currently enrolled in Google Data Analytics, MITx Computational Engineering, and Harvard CS50x. I'm also pursuing the International Baccalaureate Diploma Programme (IBDP) with a focus on English A: LangLit, French B, Chemistry SL, Math-AA, Physics, and Digital Society at HL.
+
+- 🌐 Professionally, I'm interning at CoCIS (IoT research application lab), and I have plans for a future stint at UBOS in 2024. I'm also exploring options like UWC or ALA for further education.
+
+- 💼 I'm passionate about roles in software, data, and computational engineering, and I have 3 years of programming experience with a focus on statistical modelling. My approach emphasizes clarity over technical complexity.
+
+I invite you to join me on my journey of exploration and learning in the world of technology. Let's stay curious, keep coding, and work together to create technological wonders! 🚀
