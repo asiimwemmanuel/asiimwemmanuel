@@ -1,27 +1,25 @@
-<div style="text-align: center;">
-    <img src="./hacker-pc.gif" alt="Coding" style="width: 300px;">
+<div style="width: 300px; margin: 0 auto; border: 1px solid black;">
+  <img src="./hacker-pc.gif" alt="Coding" style="width: 300px;">
 </div>
 
 <h1 align="center">Ahoy! 🏴‍☠️ I'm Emmanuel Asiimwe</h1>
 <h3 align="center">Multifaceted Technologist (Statistical Modeller/Data Scientist/Web Developer)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiimwemmanuel" alt="asiimwemmanuel" /></a> </p>
+- 🔭 I’m currently working on [PolyTrend](https://github.com/asiimwemmanuel/polytrend)
 
--   🔭 I’m currently working on [PolyTrend](https://github.com/asiimwemmanuel/polytrend)
+- 🌱 I’m currently learning **TensorFlow, MPI**
 
--   🌱 I’m currently learning **TensorFlow, MPI**
+- 👯 I’m looking to collaborate on [TVG-1](https://github.com/Josh-The-Developapa/TVG-1)
 
--   👯 I’m looking to collaborate on [TVG-1](https://github.com/Josh-The-Developapa/TVG-1)
+- 🤝 I’m looking for help with [boids-algo](https://github.com/asiimwemmanuel/boids-algo)
 
--   🤝 I’m looking for help with [boids-algo](https://github.com/asiimwemmanuel/boids-algo)
+- 👨‍💻 All of my projects are available at [https://github.com/asiimwemmanuel?tab=repositories](https://github.com/asiimwemmanuel?tab=repositories)
 
--   👨‍💻 All of my projects are available at [https://github.com/asiimwemmanuel?tab=repositories](https://github.com/asiimwemmanuel?tab=repositories)
+- 💬 Ask me about **numpy, scipy, matplotlib, scikit-learn**
 
--   💬 Ask me about **numpy, scipy, matplotlib, scikit-learn**
+- 📫 How to reach me **asiimwemmanuel47@gmail.com**
 
--   📫 How to reach me **asiimwemmanuel47@gmail.com**
-
--   📄 Know about my experiences [https://asiimwemmanuel.github.io/resume.pdf](https://asiimwemmanuel.github.io/resume.pdf)
+- 📄 Know about my experiences [https://asiimwemmanuel.github.io/resume.pdf](https://asiimwemmanuel.github.io/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,5 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiimwemmanuel&show_icons=true&locale=en&layout=compact" alt="asiimwemmanuel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiimwemmanuel&show_icons=true&locale=en" alt="asiimwemmanuel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwemmanuel&" alt="asiimwemmanuel" /></p>
