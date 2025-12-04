@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on [Runyankole Translator](https://github.com/asiimwemmanuel/Runyankole-Translator)
 
+- 🤝 I'm looking for help with **learning systems programming**
+  
 - 👨‍💻 All of my projects are available at [asiimwemmanuel.github.io](asiimwemmanuel.github.io)
 
 - 💬 Ask me about **NestJS, postgreSQL and PrismaORM**
